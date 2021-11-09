@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ![wave](https://cdn.betterttv.net/emote/60cbf881f8b3f62601c3f885/1x)
 
-- 📫 How to reach me: yanmario.menev@pm.me
-![hippo](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/1x)
+- ![mail](https://cdn.betterttv.net/emote/603ec63b306b602acc595e82/1x) How to reach me: yanmario.menev@pm.me
+![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/1x)
 <!--
 **yanmariomenev/yanmariomenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
