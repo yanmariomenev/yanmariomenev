@@ -2,7 +2,7 @@
 
 - ![mail](https://cdn.betterttv.net/emote/603ec63b306b602acc595e82/1x) How to reach me: yanmario.menev@pm.me
 
-![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/3x)
+![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x)
 <!--
 **yanmariomenev/yanmariomenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
