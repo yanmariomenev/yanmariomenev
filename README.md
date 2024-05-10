@@ -1,8 +1,8 @@
-### Hi there ![wave](https://cdn.betterttv.net/emote/60cbf881f8b3f62601c3f885/1x)
+### ![hi](https://cdn.7tv.app/emote/639a74ce77434d886603afab/2x.webp)
 
-- ![mail](https://cdn.betterttv.net/emote/603ec63b306b602acc595e82/1x) How to reach me: yanmario.menev@pm.me
+- How to reach me: yanmario.menev@pm.me ![mail](https://cdn.7tv.app/emote/63c8dcc0dedb49b243838a20/1x.webp)
 
-![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x)
+![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp)
 <!--
 **yanmariomenev/yanmariomenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
