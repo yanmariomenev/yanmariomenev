@@ -2,18 +2,19 @@
 
 - How to reach me: yanmario.menev@pm.me ![mail](https://cdn.7tv.app/emote/63c8dcc0dedb49b243838a20/1x.webp)
 
-![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp)
-<!--
-**yanmariomenev/yanmariomenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp) ![dance](https://cdn.7tv.app/emote/613a32b933f0020ec54a8c72/2x.webp)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanmariomenev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmariomenev&layout=compact&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yanmariomenev&theme=radical)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+### Frameworks
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
