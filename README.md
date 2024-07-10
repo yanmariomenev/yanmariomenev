@@ -2,7 +2,7 @@
 
 - How to reach me: yanmario.menev@pm.me ![mail](https://cdn.7tv.app/emote/63c8dcc0dedb49b243838a20/1x.webp)
 
-![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp) ![dance](https://cdn.7tv.app/emote/613a32b933f0020ec54a8c72/2x.webp)
+![edm](https://cdn.7tv.app/emote/633dd7eba855bd5c6ce87a37/3x.webp) ![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp) ![dance](https://cdn.7tv.app/emote/613a32b933f0020ec54a8c72/2x.webp) ![pugdance](https://cdn.7tv.app/emote/60afaa9c566c3e1fc94cc5e4/2x.webp) ![edm1](https://cdn.7tv.app/emote/633db93e7858907ca8770150/3x.webp)
 
 ## 📈 GitHub Stats
 
