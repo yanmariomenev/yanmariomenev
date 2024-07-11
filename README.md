@@ -7,9 +7,8 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanmariomenev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmariomenev&layout=compact&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yanmariomenev&theme=radical)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmariomenev&layout=compact&theme=radical) -->
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/yanmario-m)
 
