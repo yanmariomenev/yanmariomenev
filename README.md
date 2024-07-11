@@ -22,7 +22,7 @@
 ### Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ![lul](https://cdn.7tv.app/emote/614b411543b2d9da0d31fb5b/1x.webp) Random Dev Joke
+### ![lul](https://cdn.7tv.app/emote/614b411543b2d9da0d31fb5b/1x.webp) got: any = "jokes?"
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ### 👀 Visitor Count
