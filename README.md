@@ -1,26 +1,49 @@
-### ![hi](https://cdn.7tv.app/emote/639a74ce77434d886603afab/2x.webp)
+<p align="center">
+  <img src="https://cdn.7tv.app/emote/639a74ce77434d886603afab/2x.webp" />
+</p>
 
-![edm](https://cdn.7tv.app/emote/633dd7eba855bd5c6ce87a37/3x.webp) ![catparty](https://cdn.7tv.app/emote/60afeb77e5a579561106003c/2x.webp) ![duck](https://cdn.betterttv.net/emote/607ee5f939b5010444d02dd4/2x) ![dance](https://cdn.7tv.app/emote/6239577d6cf512e934d3e64a/2x.webp) ![dance](https://cdn.7tv.app/emote/613a32b933f0020ec54a8c72/2x.webp) ![pugdance](https://cdn.7tv.app/emote/60afaa9c566c3e1fc94cc5e4/2x.webp) ![catrave](https://cdn.7tv.app/emote/61d3d2615c6572b1f6a79160/2x.webp) ![edm1](https://cdn.7tv.app/emote/633db93e7858907ca8770150/3x.webp)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1400&color=818CF8&center=true&vCenter=true&width=700&height=40&lines=Angular+%C2%B7+TypeScript+%C2%B7+.NET;Turning+coffee+into+pull+requests;Making+things+easy+for+humans+and+robots;Writing+docs+for+robots+because+humans+never+read+them;Prompting+is+just+arguing+with+a+very+polite+intern;My+agents+write+better+commit+messages+than+me;Deleting+more+code+than+I+write" alt="typing intro" />
+  </a>
+</p>
 
-## 📈 GitHub Stats
+<p align="center">
+  <a href="https://bg.linkedin.com/in/yanmario-m">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/yanmariomenev?tab=repositories">Repositories</a>
+</p>
 
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanmariomenev&show_icons=true&theme=radical) -->
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yanmariomenev&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmariomenev&layout=compact&theme=radical) -->
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/yanmario-m)
+<br>
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-171717?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-171717?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-171717?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-171717?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-171717?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-171717?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-171717?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
 
+<br>
 
-### Frameworks
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yanmariomenev&hide_border=true&background=00000000&ring=818cf8&fire=818cf8&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=818cf8&sideLabels=8b949e&dates=8b949e&stroke=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yanmariomenev&hide_border=true&background=00000000&ring=4f46e5&fire=4f46e5&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=4f46e5&sideLabels=656d76&dates=656d76&stroke=d0d7de">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=yanmariomenev&hide_border=true">
+  </picture>
+</p>
 
-### ![lul](https://cdn.7tv.app/emote/614b411543b2d9da0d31fb5b/1x.webp) got: any = "jokes?"
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<br>
 
-### 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yanmariomenev&color=brightgreen)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=818CF8&center=true&vCenter=true&width=600&height=40&lines=git+push+origin+main;Thanks+for+stopping+by;No+agents+were+harmed+in+this+README;exit+0" alt="sign off" />
+  </a>
+</p>
